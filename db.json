@@ -1,0 +1,42 @@
+{
+  "videos": [
+    {
+      "id": "4",
+      "caption": "kesariya",
+      "url": "https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg",
+      "embededLink": "https://www.youtube.com/embed/BddP6PYo2gs"
+    },
+    {
+      "id": "5",
+      "caption": "RDX",
+      "url": "https://m.media-amazon.com/images/M/MV5BZDk5YWE4NmYtZTlhNS00OWUxLWI2NDAtYTMzZmM3ODMyMTEwXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+      "embededLink": "https://www.youtube.com/embed/Z-sAKEDWbfw"
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "kesariya",
+      "allVideos": [],
+      "id": 15
+    },
+    {
+      "CategoryName": "RDX",
+      "allVideos": [],
+      "id": 16
+    }
+  ],
+  "history": [
+    {
+      "caption": "kesariya",
+      "embededLink": "https://www.youtube.com/embed/BddP6PYo2gs",
+      "timestamp": "01/2024, 01:52:50 PM",
+      "id": 1
+    },
+    {
+      "caption": "RDX",
+      "embededLink": "https://www.youtube.com/embed/Z-sAKEDWbfw",
+      "timestamp": "01/2024, 04:43:36 PM",
+      "id": 3
+    }
+  ]
+}
